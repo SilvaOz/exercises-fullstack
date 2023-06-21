@@ -1,0 +1,23 @@
+#root {
+  max-width: 600px;
+  margin: 100px auto;
+  padding: 7.5rem;
+  /* text-align: center; */
+  background-color: #dec5af;
+  border-radius: 50px;
+}
+body {
+  background-image: url('./images/Leonardo_Creative_background_of_food_recipes_but_that_the_cen_1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+}
+

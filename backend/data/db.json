@@ -1,0 +1,15 @@
+[     
+      {
+        "id": "1",
+        "name": "Pizza Margarita",
+        "ingredients": ["masa de pizza", "tomate", "queso mozzarella", "albahaca", "aceite de oliva"],
+        "instructions": "1. Extiende la masa de pizza sobre una bandeja...\n2. Cubre la masa con salsa de tomate...\n3. Agrega el queso mozzarella..."
+      },
+      {
+        "id": "2",
+        "name": "Sopa de Tomate",
+        "ingredients": ["tomate", "cebolla", "ajo", "caldo de verduras", "pan"],
+        "instructions": "1. Pela y corta los tomates en trozos...\n2. Sofríe la cebolla y el ajo en una olla...\n3. Agrega los tomates..."
+      }
+]
+
